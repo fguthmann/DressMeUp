@@ -1,0 +1,6 @@
+numpy
+matplotlib
+opencv-python-headless
+tqdm
+glob2
+ultralytics
