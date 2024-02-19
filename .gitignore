@@ -1,3 +1,11 @@
+.DS_Store
+.Trash-0/
+.build.swp
+.idea/
+poetry.lock
+pyproject.toml
+runs/
+Final project- Software Development Using AI.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
