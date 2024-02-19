@@ -4,3 +4,5 @@ opencv-python-headless
 tqdm
 glob2
 ultralytics
+tqdm
+psycopg2-binary

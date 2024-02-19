@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
     g++ \
     build-essential \
     libopencv-dev \
+    libpq-dev \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy the current directory contents into the container at /usr/src/app
