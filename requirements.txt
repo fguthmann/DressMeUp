@@ -6,3 +6,6 @@ glob2
 ultralytics
 tqdm
 psycopg2-binary
+uvicorn
+fastapi
+python-multipart
