@@ -1,3 +1,4 @@
+.env
 =
 crops/
 docker-compose.yml
