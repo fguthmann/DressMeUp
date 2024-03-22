@@ -4,9 +4,9 @@ import logging
 import os
 import psycopg2
 import shutil
-from app.initialization_database import initialize_database, db_params
-from app.image_processing import process_image
-from app.clothes_recommendations import pick_outfit
+from initialization_database import initialize_database, db_params
+from image_processing import process_image
+from clothes_recommendations import pick_outfit
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
